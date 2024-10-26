@@ -58,7 +58,7 @@ Bu Flutter uygulaması, bir resmi yüklemenize, piksel üzerinde tıklayarak RGB
 
 ## Screenshots / Ekran Görüntüleri
 
-<img src="[assets/Github/app1.jpg](https://github.com/Metehan-DER/pixel_dedection/blob/a0bbc7fc6789313fd4409f17fc5f7a0cb5431a47/assets/images/img.png)" width="225" height="500">
+<img src="assets/images/img.png" width="225" height="500">
 
 ## License / Lisans
 
