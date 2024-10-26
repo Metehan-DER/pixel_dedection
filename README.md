@@ -61,7 +61,7 @@ Bu Flutter uygulaması, bir resmi yüklemenize, piksel üzerinde tıklayarak RGB
 
 <img src="assets/images/img.png" width="500" height="240">
 
-<img src="assets/images/img_1.png" width="500" height="240">
+<img src="assets/images/img_1.png">
 
 
 ```
