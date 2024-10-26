@@ -57,9 +57,10 @@ Bu Flutter uygulaması, bir resmi yüklemenize, piksel üzerinde tıklayarak RGB
 3. Tüm resmin RGB değerleri sağdaki matriste gösterilecektir.
 
 ## Screenshots / Ekran Görüntüleri
-
+ ```
 <img src="assets/images/img.png" width="225" height="500">
 
+```
 ## License / Lisans
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
