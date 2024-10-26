@@ -15,7 +15,8 @@ class _RGBImageAppState extends State<RGBImageApp> {
   List<List<String>> _rgbMatrix = [];
   bool isLoading = false;
 
-  Future<void> _loadImage() async { // Resim Yüklememizi sağlayan fonksiyon..
+  Future<void> _loadImage() async {
+    // Resim Yüklememizi sağlayan fonksiyon..
     setState(() {
       isLoading = true;
     });
@@ -164,5 +165,3 @@ class _RGBImageAppState extends State<RGBImageApp> {
 }
 
 void main() => runApp(MaterialApp(home: RGBImageApp()));
-
-
