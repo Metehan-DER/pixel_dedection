@@ -58,7 +58,7 @@ Bu Flutter uygulaması, bir resmi yüklemenize, piksel üzerinde tıklayarak RGB
 
 ## Screenshots / Ekran Görüntüleri
 
-![App Screenshot](assets/images/screenshot.png)
+![App Screenshot](assets/images/img.png)
 
 ## License / Lisans
 
